@@ -1,0 +1,9 @@
+:root{
+--bg:#faf8f5;--text:#222;--accent:#cea47e;
+}
+*{box-sizing:border-box}
+html,body{margin:0}
+body{font-family:Poppins,sans-serif;background:var(--bg);color:var(--text)}
+.hero{height:100vh;display:flex;flex-direction:column;justify-content:center;align-items:center;text-align:center;padding:2rem}
+.hero h1{font:600 clamp(3rem,8vw,6rem) 'Cormorant Garamond',serif;margin:0}
+.button{margin-top:2rem;padding:.9rem 2rem;border:1px solid #222;text-decoration:none;color:#222}
