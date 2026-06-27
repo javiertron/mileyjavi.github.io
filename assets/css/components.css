@@ -1,0 +1,25 @@
+.button{
+
+display:inline-flex;
+
+align-items:center;
+
+justify-content:center;
+
+padding:1rem 2.25rem;
+
+border:1px solid var(--color-text);
+
+transition:var(--transition);
+
+letter-spacing:.08em;
+
+}
+
+.button:hover{
+
+background:var(--color-text);
+
+color:white;
+
+}

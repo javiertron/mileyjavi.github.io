@@ -1,0 +1,52 @@
+:root{
+
+    /* COLORS */
+
+    --color-background:#FAF8F5;
+
+    --color-surface:#FFFFFF;
+
+    --color-text:#222222;
+
+    --color-secondary:#6E6E6E;
+
+    --color-accent:#CEA47E;
+
+    --color-border:#EAE5DF;
+
+    /* TYPOGRAPHY */
+
+    --font-title:'Cormorant Garamond', serif;
+
+    --font-body:'Poppins', sans-serif;
+
+    /* WIDTH */
+
+    --container:1200px;
+
+    /* SPACING */
+
+    --space-1:.25rem;
+    --space-2:.5rem;
+    --space-3:.75rem;
+    --space-4:1rem;
+    --space-5:1.5rem;
+    --space-6:2rem;
+    --space-7:3rem;
+    --space-8:4rem;
+    --space-9:6rem;
+    --space-10:8rem;
+
+    /* BORDER */
+
+    --radius:12px;
+
+    /* SHADOW */
+
+    --shadow:0 20px 60px rgba(0,0,0,.08);
+
+    /* TRANSITIONS */
+
+    --transition:.45s cubic-bezier(.22,.61,.36,1);
+
+}
