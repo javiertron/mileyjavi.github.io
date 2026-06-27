@@ -1,0 +1,17 @@
+@media (min-width:992px){
+
+.hero .container{
+
+grid-template-columns:1fr 1fr;
+
+}
+
+.hero__content{
+
+align-items:flex-start;
+
+text-align:left;
+
+}
+
+}
